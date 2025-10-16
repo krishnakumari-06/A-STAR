@@ -262,3 +262,7 @@ aStarAlgo(start, goal)
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+# Result
+
+The program is executed successfully
